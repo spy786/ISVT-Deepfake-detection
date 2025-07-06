@@ -33,7 +33,7 @@ ISTVT_deepfake_det/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/saubhagyapandey27/ISTVT_deepfake_det/
+git clone https://github.com/spy786/ISVT-Deepfake-detection.git
 cd ee656_project
 ```
 
